@@ -1,5 +1,5 @@
 # Wine Identifier
-
+Team: Ares Vlahos
 
 ### Overview
 For those times when you're missing your drinking buddy, Wine Identifier makes the perfect substitute -- quite the wine connoisseur. This program uses an LSTM model to train on descriptions of wine in order to accurately identify the type of wine the user may be drinking.
